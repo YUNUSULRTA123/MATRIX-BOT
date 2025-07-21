@@ -69,3 +69,34 @@ python bot.py
 ```
 Бот запущен...
 ```
+
+### 📁 Структура проекта
+handlers/
+│
+├── start.py
+├── calc.py
+├── quote.py
+├── note.py
+├── todo.py
+├── convert.py
+├── music.py
+├── weather.py
+├── remind.py
+├── translate.py
+├── calendar.py
+├── time.py
+├── clear.py
+├── meditate.py
+├── quiz.py
+├── fun.py
+├── shorten.py
+├── ipinfo.py
+├── ascii.py
+├── qr.py
+├── download.py
+├── wiki.py
+└── ask.py
+bot.py
+.env
+README.md
+requirements.txt
