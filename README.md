@@ -71,6 +71,7 @@ python bot.py
 ```
 
 ### 📁 Структура проекта
+```
 handlers/
 │
 ├── start.py
@@ -100,3 +101,4 @@ bot.py
 .env
 README.md
 requirements.txt
+```
